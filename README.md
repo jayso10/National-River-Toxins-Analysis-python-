@@ -5,6 +5,13 @@ This repository contains an end-to-end **exploratory data analysis project exami
 The project explores toxin levels, seasonal pollution patterns, river acidity, and nutrient loads using the **National River Toxin Dataset**.
 
 ---
+## 🔗 Live Dashboard
+
+👉 [View the Visualisations and Analysis](https://github.com/jayso10/National-River-Toxins-Analysis-python-/blob/main/EDA%20River%20System.ipynb)
+
+📈 [View the Full Report and Documentation](https://github.com/jayso10/National-River-Toxins-Analysis-python-/blob/main/Full%20Report%20and%20Insight.pdf)
+
+---
 
 ## 📊 Project Overview
 
